@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/JAY/Android_Studio_Projects/GUIApplication/app/src/main/res/layout/activity_card_details.xml" value="0.1" />
+        <entry key="..\:/JAY/Android_Studio_Projects/GUIApplication/app/src/main/res/layout/activity_check_box.xml" value="0.2563405797101449" />
+        <entry key="..\:/JAY/Android_Studio_Projects/GUIApplication/app/src/main/res/layout/activity_date_picker.xml" value="0.36666666666666664" />
+        <entry key="..\:/JAY/Android_Studio_Projects/GUIApplication/app/src/main/res/layout/activity_main.xml" value="0.36666666666666664" />
+        <entry key="..\:/JAY/Android_Studio_Projects/GUIApplication/app/src/main/res/layout/activity_progress_bar.xml" value="0.2563405797101449" />
+        <entry key="..\:/JAY/Android_Studio_Projects/GUIApplication/app/src/main/res/layout/activity_radio_button.xml" value="0.36666666666666664" />
+        <entry key="..\:/JAY/Android_Studio_Projects/GUIApplication/app/src/main/res/layout/activity_rating_bar.xml" value="0.36666666666666664" />
+        <entry key="..\:/JAY/Android_Studio_Projects/GUIApplication/app/src/main/res/layout/activity_redio_button.xml" value="0.36666666666666664" />
+        <entry key="..\:/JAY/Android_Studio_Projects/GUIApplication/app/src/main/res/layout/component_list_item.xml" value="0.36666666666666664" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="11" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
